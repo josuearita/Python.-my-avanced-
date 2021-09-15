@@ -1,0 +1,11 @@
+
+print("Nombre" , input("Insertar su Nombre") , sep= ":")
+print("Apellido" , input("Insertar su apellido") , sep= ":")
+print("Edad" , input("Ingrese su edad " + "solo mayores de 10 años"))
+print("Contraseña" , input("Insertar contraseña") , sep= ":" )
+print("Contraseña " + "Confirmada", input("Ingrese su contraseña de nuevo"), sep= ":")
+print("Bienvenido al sistema " + "Disfrute su estadia" , end= " ")
+# Este codigo es sencillo es unos de los primeros de muchos :)
+print(":)")
+print("Your Opinion" , input("HI HOW ARE YOU?"), sep= ":")
+print("the opinion of the system is " + "Me pela tres pingos :V")

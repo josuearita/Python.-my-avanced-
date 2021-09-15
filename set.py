@@ -1,0 +1,5 @@
+s = set(["1", "2", "3", "4"])
+print(s)
+s.add(5)
+s.discard(2)
+print(s)
